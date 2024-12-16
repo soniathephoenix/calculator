@@ -80,4 +80,4 @@ Contributions, issues, and feature requests are welcome! Feel free to fork the r
 ## 📧 Contact
 
 - **LinkedIn**: https://www.linkedin.com/in/sonia-pires-467625184/
-- **Email**: (mailto:soniacodesloads@gmail.com)
+- **Email**: mailto:soniacodesloads@gmail.com
